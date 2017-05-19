@@ -1,0 +1,41 @@
+{
+    "records": [
+        {
+            "Name": "id",
+            "Type": "int(11)",
+            "Comparison":"--",
+            "Atributes":"--",
+            "Null":"no",
+            "Default":"no",
+            "Additionaly":"auto_increment"
+            
+        },
+        {
+            "Name": "name",
+            "Type": "text",
+            "Comparison":"utf8_general_ci",
+            "Atributes":"--",
+            "Null":"no",
+            "Default":"no",
+            "Additionaly":"--"
+        },
+        {
+            "Name": "pages",
+            "Type": "int(3)",
+            "Comparison":"--",
+            "Atributes":"--",
+            "Null":"no",
+            "Default":"no",
+            "Additionaly":"--"
+        },
+        {
+            "Name": "author",
+            "Type": "varchar(20)",
+            "Comparison":"utf8_general_ci",
+            "Atributes":"--",
+            "Null":"no",
+            "Default":"no",
+            "Additionaly":"--"
+        }
+    ]
+}
